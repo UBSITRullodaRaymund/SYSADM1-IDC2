@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/73b83c05-cb85-49fd-9cc7-32285b842a9e)
+![image](https://github.com/user-attachments/assets/9d4d91ce-1460-445f-a195-cc998a79e40f)![image](https://github.com/user-attachments/assets/73b83c05-cb85-49fd-9cc7-32285b842a9e)
 
 
 ![image](https://github.com/user-attachments/assets/37718a7b-e78e-4162-aeb7-dc9e48ce1b1c)
@@ -150,16 +150,17 @@ type. Use the internet for the resources of the files listed below.
 > 2. small_text.txt\
 > 3. code.cpp
 >
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image4.png){width="5.475in"
-> height="2.8736100174978128in"}
+>![image](https://github.com/user-attachments/assets/f95024b0-c514-4064-9eee-dc3e97145cde)
+
+> 
 >
 > 2\. **Images**\
 > 1. image1.jpg\
 > 2. image2.png\
 > 3. image3.bmp
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image5.png){width="6.183333333333334in"
-height="3.234722222222222in"}
+![image](https://github.com/user-attachments/assets/a6e46e7f-b775-4029-b0ee-7f253774db90)
+
 
 Page **2** of **8**
 
@@ -167,14 +168,14 @@ Page **2** of **8**
 > 1. song.mp3\
 > 2. speech.wav
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image6.png){width="7.1361100174978125in"
-height="3.4055555555555554in"}
+![image](https://github.com/user-attachments/assets/ed1a747d-ada4-4aac-83bb-5e7e80a70482)
+
 
 > 4\. **Video**\
 > 1. clip.mp4
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image7.png){width="6.774998906386702in"
-height="3.5402766841644793in"}
+![image](https://github.com/user-attachments/assets/299e3b1f-473a-4467-8ac6-eab745a420c6)
+
 
 Page **3** of **8**
 
@@ -183,15 +184,15 @@ Page **3** of **8**
 > tabs to understand file attributes like creation date, size, and
 > read-only status.
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image8.png){width="6.808333333333334in"
-height="3.4569444444444444in"}
+![image](https://github.com/user-attachments/assets/019bfe77-bedd-4cba-a272-57e375af79ba)
+
 
 > 13\. **Change file attributes:** Try changing the file attributes
 > (e.g., read-only, hidden) using the Properties dialog. Observe the
 > changes in File Explorer.
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image9.png){width="6.711111111111111in"
-height="3.906943350831146in"}
+![image](https://github.com/user-attachments/assets/551c9ba5-62b3-4143-9954-52bb3a2392b9)
+
 
 Page **4** of **8**
 
@@ -200,33 +201,34 @@ Page **4** of **8**
 > with a specific user or group, setting appropriate permissions (e.g.,
 > Read, Write, Full control)
 >
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image10.png){width="6.154166666666667in"
-> height="3.256943350831146in"}
+> ![image](https://github.com/user-attachments/assets/022f57fe-38e7-4210-8bfd-430ef8c40d5b)
+
+> 
 >
 > 15\. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
 > archive of the \"Lab1_Windows\" folder.
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image11.png){width="6.901388888888889in"
-height="2.7291666666666665in"}
+![image](https://github.com/user-attachments/assets/6996741f-08c1-4c4d-982b-a192cc1fee0d)
+
 
 Page **5** of **8**
 
 > 16\. **Extract an archive:** Create a new folder, then extract the
 > created archive into it.
 >
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image12.png){width="7.051388888888889in"
-> height="2.0180555555555557in"}
+> ![image](https://github.com/user-attachments/assets/f44ea4b6-b590-4f0f-977e-c269b10941e0)
 
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image13.png){width="7.465277777777778in"
-height="3.886110017497813in"}
+> 
+
+
 
 Page **6** of **8**
 
 > Part B. Create a log report structure\
 > General Directive
 >
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image14.png){width="3.308333333333333in"
-> height="1.8305555555555555in"}
+![image](https://github.com/user-attachments/assets/12551301-41ea-4d27-8d06-37804052d976)
+
 
 ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image15.png){width="3.4166666666666665in"
 height="1.859721128608924in"}
