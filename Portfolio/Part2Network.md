@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2d72bf70-82c7-45a5-b921-e0b1020629bd)
+
+
 Part 2. Network Scalability Analysis
 Recall the e-commerce website scenario we discussed earlier. Given the expected surge in traffic, analyze the provided network topology diagram. Identify potential bottlenecks and areas where scalability might be a concern. Propose specific strategies to improve the network's scalability and performance to ensure a seamless user experience during the peak traffic period. Consider factors such as increased user demand, new applications, and security threats.
 
