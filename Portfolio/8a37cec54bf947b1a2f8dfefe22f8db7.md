@@ -84,50 +84,7 @@ quizzes/activities/exam\>**
 
 Page **3** of **4**
 
-**Course Reflection**
 
-What were your initial expectations for the course? Did the course meet,
-exceed, or fall short of these expectations?
-
-  Hello World
-
-What were the main topics or concepts covered in the course? How did
-these topics contribute to your understanding of the subject matter?
-
-  Hello World
-
-Reflecting on your learning process, what were the most effective
-strategies or techniques that helped you grasp and retain the course
-material?
-
- Hello World
-
-Were there any particular assignments, projects, or activities that
-significantly enhanced your learning experience? Why were they
-effective?
-
-  Hello WorldHello WorldHello WorldHello WorldHello World
-
-Did you encounter any challenges or difficulties during the course? How
-did you overcome these obstacles, and what did you learn from them?
-
-Hello WorldHello WorldHello WorldHello World
-
-Did the course encourage critical thinking and analysis? How did it
-promote higher-order thinking skills, such as problem-solving or
-decision-making?
-
-  Hello WorldHello WorldHello WorldHello World
-
-Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?
-
-  Hello WorldHello WorldHello WorldHello World
-
-How do you plan to apply what you have learned in this course to your
-future studies, career, or personal life?
-
-  Hello World Hello World Hello World Hello World
 
 Page **4** of **4**
 
@@ -665,3 +622,48 @@ Page **3** of **4**
 > height="5.147222222222222in"}
 
 Page **4** of **4**
+
+**Course Reflection**
+
+What were your initial expectations for the course? Did the course meet,
+exceed, or fall short of these expectations?
+
+  My initial expectations were it will be the same as server administration and opsyst
+
+What were the main topics or concepts covered in the course? How did
+these topics contribute to your understanding of the subject matter?
+
+   The main topics that i remember is the managing the services in linux and creating fily systems and also the wer server. I also remember the kerberos and this git. 
+
+Reflecting on your learning process, what were the most effective
+strategies or techniques that helped you grasp and retain the course
+material?
+
+ The effective strategies or techniques that help me is purposive communication because i can talk to my adviser and answered the question my adviser is asking and also hands on.
+
+Were there any particular assignments, projects, or activities that
+significantly enhanced your learning experience? Why were they
+effective?
+
+  For me git is the one that enhancing my learning because i can edit and also collaborate with my classmates
+
+Did you encounter any challenges or difficulties during the course? How
+did you overcome these obstacles, and what did you learn from them?
+
+The Challenges that i encounter is none because the teacher teach so well that i understand everything that she teaches
+
+Did the course encourage critical thinking and analysis? How did it
+promote higher-order thinking skills, such as problem-solving or
+decision-making?
+
+  Yes by doing trial and error like if your system is not working i should try to explore and experiment before asking for help
+
+Reflecting on your personal growth, what new knowledge, skills, or
+perspectives did you gain from this course?
+
+  Im not that very exploring the systems sometimes but now im trying my best to do it my self first before asking for help and thats a new skill for me
+
+How do you plan to apply what you have learned in this course to your
+future studies, career, or personal life?
+
+  I plan to continue learning about server and operating systems because this is the only subject that i personaly like and find it so challenging that my mind is pushed through its limits.
