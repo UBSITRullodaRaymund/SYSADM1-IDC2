@@ -1,629 +1,87 @@
-![image](https://github.com/user-attachments/assets/73b83c05-cb85-49fd-9cc7-32285b842a9e)
-
-
-![image](https://github.com/user-attachments/assets/37718a7b-e78e-4162-aeb7-dc9e48ce1b1c)
-
-
-+-----------------------+-----------------------+-----------------------+
-| > **Midterms**        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 2              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 3              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-
-> \<Subject Description\>
-
-INSTRUCTOR: \<name of instructor\>
-
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+=======================+=======================+=======================+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Midterm Exam        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > **Finals**          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 2              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 3              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Final Exam          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Course Reflection   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-
-Page **2** of **4**
-
-**\<insert your scanned activities here include title\> Quiz 1:**
-
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image2.png){width="2.8125in"
-height="2.8125in"}
-
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
-
-Page **3** of **4**
-
-
-
-Page **4** of **4**
-
-+-----------------------+-----------------------+-----------------------+
-| ![](ver               |                       |                       |
-| topal_8a37cec54bf947b |                       |                       |
-| 1a2f8dfefe22f8db7/med |                       |                       |
-| ia/image3.png){width= |                       |                       |
-| "2.301388888888889in" |                       |                       |
-| height="0             |                       |                       |
-| .5541655730533683in"} |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Raymund P.    | > DATE PERFORMED:     | 40/50                 |
-| > Rulloda             | > 22/08/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section:IDC2        | > DATE SUBMITTED:     |                       |
-|                       | > 22/08/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/01135f9c-94e0-4e28-b3ec-d2ae510839a0)
 
-SYSADM1 -- Introduction to File Systems in Windows and Linux
+![image](https://github.com/user-attachments/assets/aabe7d98-b9dc-4d96-862b-4b6b7b0b6d50)
 
-Requirement:
 
-> • A virtual machine running Linux and Windows OS
+PRELIMS
 
-Instructions:
+Quiz 1 :
+![image](https://github.com/user-attachments/assets/36f155b0-95d2-4d58-97a3-a2a74663f175)
 
-> **Part A: Windows File System**\
-> 1. **Open File Explorer:** Click the File Explorer icon on your
-> desktop or press the Windows key + E.
->
-> 2\. **Navigate to your Documents folder:** This is usually the default
-> location for user files.
->
-> 3\. **Create a new folder:** Right-click in an empty space, select
-> \"New,\" then \"Folder.\" Name it \"Lab1_Windows.\"\
-> 4. **Create a text file:** Right-click in the \"Lab1_Windows\" folder,
-> select \"New,\" then \"Text Document.\" Rename it to \"info.txt.\"\
-> 5. **Open the text file:** Double-click the \"info.txt\" file to open
-> it in Notepad.
->
-> 6\. **Type some text:** Write a short paragraph about yourself or the
-> purpose of the file.
->
-> 7\. **Save the file:** Close the Notepad window and save the changes.
->
-> 8\. **Create a subfolder:** Create a new folder inside
-> \"Lab1_Windows\" called \"Data.\" 9. **Copy the text file:** Copy the
-> \"info.txt\" file to the \"Data\" subfolder.
->
-> 10\. **Rename the copied file:** Rename the copied file to \"data.txt.
+Seatwork 1 :
+![image](https://github.com/user-attachments/assets/e3216a8c-69fe-406f-8e6e-d1abfe8d128c)
 
-11\. Create a folder named \"LabFiles\" with subfolders for each file
-type. Use the internet for the resources of the files listed below.
+Seatwork 2 :
+![image](https://github.com/user-attachments/assets/a362c867-e8fd-4b32-a038-856e314b5348)
 
-> **LabFiles**
->
-> 1\. **Text**\
-> 1. large_text.txt\
-> 2. small_text.txt\
-> 3. code.cpp
->
->![image](https://github.com/user-attachments/assets/f95024b0-c514-4064-9eee-dc3e97145cde)
+MIDTEMRS
 
-> 
->
-> 2\. **Images**\
-> 1. image1.jpg\
-> 2. image2.png\
-> 3. image3.bmp
+M_LW1:
 
-![image](https://github.com/user-attachments/assets/a6e46e7f-b775-4029-b0ee-7f253774db90)
+![image](https://github.com/user-attachments/assets/322f92ac-6cb8-4f8d-ab6c-8788e0bd40c8)
+![image](https://github.com/user-attachments/assets/71383598-0b92-4b55-a423-851f0ffbf314)
+![image](https://github.com/user-attachments/assets/45f26da8-b9a4-4b4a-bcfc-efab7873188b)
+![image](https://github.com/user-attachments/assets/76b40c76-9c6d-4c2d-aed7-a724a11813e7)
+![image](https://github.com/user-attachments/assets/2c724a1d-aa9c-4aed-9d0c-0ed2d404fec5)
+![image](https://github.com/user-attachments/assets/4067ce7b-bdc7-4e99-abdb-e2f3b6342e9b)
 
 
-Page **2** of **8**
 
-> 3\. **Audio**\
-> 1. song.mp3\
-> 2. speech.wav
-
-![image](https://github.com/user-attachments/assets/ed1a747d-ada4-4aac-83bb-5e7e80a70482)
 
+M_LW2 Web Server:
 
-> 4\. **Video**\
-> 1. clip.mp4
+![image](https://github.com/user-attachments/assets/40a84d43-5c13-4ff0-8fd7-a8f88dae7746)
+![image](https://github.com/user-attachments/assets/a4673cc0-57a8-4d29-a63e-b72916f90df8)
+![image](https://github.com/user-attachments/assets/d7d83481-9e0b-41a9-9474-003cf8320db1)
+![image](https://github.com/user-attachments/assets/36c5ea6a-00e8-496f-b331-62d748f0f1f4)
 
-![image](https://github.com/user-attachments/assets/299e3b1f-473a-4467-8ac6-eab745a420c6)
-
-
-Page **3** of **8**
-
-> 12\. **Check file properties:** Right-click on the \"info.txt\" file
-> and select \"Properties.\" Explore the General, Details, and Security
-> tabs to understand file attributes like creation date, size, and
-> read-only status.
-
-![image](https://github.com/user-attachments/assets/019bfe77-bedd-4cba-a272-57e375af79ba)
-
-
-> 13\. **Change file attributes:** Try changing the file attributes
-> (e.g., read-only, hidden) using the Properties dialog. Observe the
-> changes in File Explorer.
-
-![image](https://github.com/user-attachments/assets/551c9ba5-62b3-4143-9954-52bb3a2392b9)
-
-
-Page **4** of **8**
-
-> 14\. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
-> select \"Properties,\" and then the \"Sharing\" tab. Share the folder
-> with a specific user or group, setting appropriate permissions (e.g.,
-> Read, Write, Full control)
->
-> ![image](https://github.com/user-attachments/assets/022f57fe-38e7-4210-8bfd-430ef8c40d5b)
-
-> 
->
-> 15\. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
-> archive of the \"Lab1_Windows\" folder.
-
-![image](https://github.com/user-attachments/assets/6996741f-08c1-4c4d-982b-a192cc1fee0d)
-
-
-Page **5** of **8**
-
-> 16\. **Extract an archive:** Create a new folder, then extract the
-> created archive into it.
->
-> ![image](https://github.com/user-attachments/assets/f44ea4b6-b590-4f0f-977e-c269b10941e0)
-
-> 
-
-
-
-Page **6** of **8**
-
-> Part B. Create a log report structure\
-> General Directive
->
-![image](https://github.com/user-attachments/assets/12551301-41ea-4d27-8d06-37804052d976)
-
-
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image15.png){width="3.4166666666666665in"
-height="1.859721128608924in"}
-
-> **Log Report**\
-> **Date:** August 22, 2024\
-> **Time:** 9 : 40 AM\
-> **Prepared by:** Raymund Rulloda **Department:** BSIT
-
-![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image16.png){width="3.7583333333333333in"
-height="1.9444444444444444in"}
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image17.png){width="3.3680555555555554in"
-> height="1.8194444444444444in"}
-
-+-----------------------------------+-----------------------------------+
-| > **-**\                          | > **Event Description**           |
-| > •                               | >                                 |
-|                                   | > **Windows File System** \       |
-| •                                 | > - **A series of Navigating,     |
-|                                   | > Saving, Sharing, Creating and   |
-| •                                 | > Renaming files and sub          |
-|                                   | > folders.**                      |
-|                                   | >                                 |
-|                                   | > **Check file properties** \     |
-|                                   | > - **Exploring the General,      |
-|                                   | > Details, and Security tabs to   |
-|                                   | > understand file attributes like |
-|                                   | > creation date, size, and        |
-|                                   | > read-only status.**             |
-|                                   | >                                 |
-|                                   | > **Changing file attributes** \  |
-|                                   | > - **Trying to change the file   |
-|                                   | > attributes (e.g., read-only,    |
-|                                   | > hidden) using the Properties    |
-|                                   | > dialog. Observe the changes in  |
-|                                   | > File Explorer.**                |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
-Page **7** of **8**
-
-+-----------------------------------+-----------------------------------+
-| •                                 | > **Sharing A folder**            |
-|                                   | >                                 |
-| •                                 | > \- **Sharing the folder with a  |
-|                                   | > specific user or group, setting |
-| •                                 | > appropriate permissions         |
-|                                   | > (e.g.,**                        |
-|                                   | >                                 |
-|                                   | > **Read, Write, Full control)**  |
-|                                   | >                                 |
-|                                   | > **Creating an archive** \       |
-|                                   | > - **Using WinRAR or 7-Zip to    |
-|                                   | > create a compressed archive of  |
-|                                   | > the folder you want to zip.**   |
-|                                   | >                                 |
-|                                   | > **Extracting an archive** \     |
-|                                   | > - **Retrieving files from a     |
-|                                   | > compressed archive**            |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
-Page **8** of **8**
-
-+-----------------------+-----------------------+-----------------------+
-| ![](ver               |                       |                       |
-| topal_8a37cec54bf947b |                       |                       |
-| 1a2f8dfefe22f8db7/med |                       |                       |
-| ia/image3.png){width= |                       |                       |
-| "2.301388888888889in" |                       |                       |
-| height="0             |                       |                       |
-| .5541655730533683in"} |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Rulloda,      | > DATE PERFORMED:     |                       |
-| > Raymund P.          | > 08/29/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section: IDC2       | > DATE SUBMITTED:     |                       |
-|                       | > 08/29/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-
-SYSADM1 -- Managing Services in Windows
-
-Requirement:
-
-> • A virtual machine running Linux and Windows OS 
-
-**Services** are background processes that run independently of user
-interactions in Windows. They
-
-provide essential system functions, such as network connectivity,
-printing, and time synchronization.
-
-This lab will guide you through the process of managing services using
-the Services app.
-
-Instructions:
-
-> 1\. Open the Start menu and search for \"Services\"
->
-> 2\. Familiarize yourself with the columns, including Service Name,
-> Display Name, Status, and
->
-> Startup type.
->
-> 3\. Right-click on a service and select \"Start\", \"Stop\", or
-> \"Restart\". Fill out the table below
-
-+-----------------------+-----------------------+-----------------------+
-| **Status**            | **Name of Service**   | **Screenshot**        |
-+=======================+=======================+=======================+
-| > Start               | > Application         | > ![](verto           |
-|                       | > Management          | pal_8a37cec54bf947b1a |
-|                       |                       | 2f8dfefe22f8db7/media |
-|                       |                       | /image18.png){width=" |
-|                       |                       | 1.9527777777777777in" |
-|                       |                       | > height="            |
-|                       |                       | 2.290277777777778in"} |
-+-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
-| > Stop                | > Application         | > ![](verto           |
-|                       | > Management          | pal_8a37cec54bf947b1a |
-|                       |                       | 2f8dfefe22f8db7/media |
-|                       |                       | /image19.png){width=" |
-|                       |                       | 2.3569444444444443in" |
-|                       |                       | > height="            |
-|                       |                       | 2.688888888888889in"} |
-+=======================+=======================+=======================+
-| > Restart             | > Agent Activation    | ![](vert              |
-|                       | > Runtime_8780b       | opal_8a37cec54bf947b1 |
-|                       |                       | a2f8dfefe22f8db7/medi |
-|                       |                       | a/image20.png){width= |
-|                       |                       | "2.863888888888889in" |
-|                       |                       | height="2             |
-|                       |                       | .8194444444444446in"} |
-+-----------------------+-----------------------+-----------------------+
-| > Pause               | > WorkStaion          | > ![](vert            |
-|                       |                       | opal_8a37cec54bf947b1 |
-|                       |                       | a2f8dfefe22f8db7/medi |
-|                       |                       | a/image21.png){width= |
-|                       |                       | "2.429165573053368in" |
-|                       |                       | > height="2           |
-|                       |                       | .7444444444444445in"} |
-+-----------------------+-----------------------+-----------------------+
-
-Page **2** of **6**
-
-4\. Select five network services, right-click to view its properties.
-Modify the startup setting to Manual.
-
-> **SS**:
->
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image22.png){width="4.759722222222222in"
-> height="0.9805555555555555in"}
-
-5\. Explore the \"General\", \"Recovery\", and \"Log On\" tabs to
-understand additional service settings.
-
-6\. Create a batch file that will be added as a new service later on.
-Refer to the batch file code below.
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image23.png){width="4.776388888888889in"
-> height="1.9916666666666667in"}
-
-7\. Save the batch file in Z:\\lastname_timer.bat
-
-8\. Use the sc command to add timer.bat service in the command line
-interface.
-
-> *sc create BatchTimerService binPath= \"path_to_your_batch_file.bat\"
-> start= auto*
->
-> *net start BatchTimerService*
->
-> **Replace path_to_your_batch_file.bat with the actual path to your
-> batch file.**
-
-Page **3** of **6**
-
-9\. Verify that BatchTimerService has been added to the services.
-**SS:**
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image24.png){width="4.243055555555555in"
-> height="3.0805555555555557in"}
-
-Page **4** of **6**
-
-> 10\. **Testing the Service:** Now, if you open a new command prompt,
-> you should see the timer countdown without requiring your interaction.
-> Once the timer finishes, you\'ll see the \"Timer finished!\" message.
->
-> **SS:**
->
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image25.png){width="5.4375in"
-> height="6.1125in"}
->
-> **Rubric**
-
-+-------------+-------------+-------------+-------------+-------------+
-| *           | **Excellent | **Good      | >           | **Uns       |
-| *Criteria** | (10)**      | (7)**       |  **Needs**\ | atisfactory |
-|             |             |             | > **        | (1)**       |
-|             |             |             | Improvement |             |
-|             |             |             | > (3)**     |             |
-+=============+=============+=============+=============+=============+
-| > Un        | > D         | > Shows a   | > Has a     | > Shows     |
-| derstanding | emonstrates | > solid\    | > basic\    | > little or |
-| > of        | > a deep    | > un        | > un        | > no        |
-| > Services  | > un        | derstanding | derstanding | > un        |
-|             | derstanding | > of        | > of        | derstanding |
-|             | > of the    | > services, | > services, | > of        |
-|             | > concept   | > but may   | > but may   | > services. |
-|             | > of        |             |             |             |
-|             | > services, |             |             |             |
-|             | > their     |             |             |             |
-|             | > roles,    |             |             |             |
-|             | > and their |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-Page **5** of **6**
-
-+-------------+-------------+-------------+-------------+-------------+
-|             | >           | > lack some | > struggle  |             |
-|             |  importance | > depth in  | > with      |             |
-|             | > in        | > specific  | > specific  |             |
-|             | > Windows.  | > areas.    | > concepts. |             |
-+=============+=============+=============+=============+=============+
-| > Service\  | > S         | > De        | > Can       | > Struggles |
-| >           | uccessfully | monstrates\ | > perform   | > to        |
-|  Management | > starts,   | >           | > basic     | > perform   |
-| > Skills    | > stops,    | proficiency | > service\  | > even      |
-|             | > restarts, | > in\       | >           | > basic     |
-|             | > and       | > managing  |  management | > service   |
-|             | >           | > services, | > tasks,    | >           |
-|             |  configures | > but may   | > but may   |  management |
-|             | > services  | > encounter | > need\     | > tasks.    |
-|             | > using the | > minor     | >           |             |
-|             | > Services  | > di        |  assistance |             |
-|             | > app.      | fficulties. | > or\       |             |
-|             |             |             | > guidance. |             |
-+-------------+-------------+-------------+-------------+-------------+
-| > Custom    | > S         | > Can       | > Has       | Cannot      |
-| > Service   | uccessfully | > create a\ | > limited\  | create a    |
-| > Creation  | > creates   | > custom    | >           | custom      |
-|             | > and       | > service,  |  experience | service.    |
-|             | > manages   | > but may   | > with      |             |
-|             | > a\        | >           | > creating  |             |
-|             | > custom    |  encounter\ | > custom    |             |
-|             | > service   | > minor     | > services. |             |
-|             | > using the | > d         |             |             |
-|             | >           | ifficulties |             |             |
-|             | appropriate | > or        |             |             |
-|             | > tools and | > require   |             |             |
-|             | >           | >           |             |             |
-|             | techniques. | assistance. |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| > Problem-  | > D         | > Can       | > May       | > Struggles |
-| > Solving   | emonstrates | > e         | > require\  | > to\       |
-|             | > strong    | ffectively\ | >           | > t         |
-|             | > prob      | > t         |  assistance | roubleshoot |
-|             | lem-solving | roubleshoot | > to\       | > and       |
-|             | > skills    | > and\      | > t         | > resolve   |
-|             | > when      | > resolve   | roubleshoot | > issues.   |
-|             | > en        | > most      | > some      |             |
-|             | countering\ | > issues    | > issues.   |             |
-|             | >           | > related   |             |             |
-|             |  challenges | > to        |             |             |
-|             | > or        | > service\  |             |             |
-|             | > errors.   | >           |             |             |
-|             |             | management. |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Do          | > Provides  | > Documents | > Provides  | > Does not  |
-| cumentation | > clear     | > the lab   | > basic\    | > provide   |
-| and         | > and\      | >           | > doc       | > any       |
-| Reporting   | > concise\  | activities\ | umentation, | > do        |
-|             | > do        | >           | > but may   | cumentation |
-|             | cumentation | adequately, | > be        | > or        |
-|             | > of the    | > but\      | > d         | >           |
-|             | > lab       | > may lack  | isorganized |  reporting. |
-|             | >           | > some\     | > or        |             |
-|             | activities, | > detail or | >           |             |
-|             | > including | > clarity.  | incomplete. |             |
-|             | > relevant  |             |             |             |
-|             | >           |             |             |             |
-|             | screenshots |             |             |             |
-|             | > and       |             |             |             |
-|             | > ob        |             |             |             |
-|             | servations. |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **Score:**  | > **/50**   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-Page **6** of **6**
-
-+-----------------------+-----------------------+-----------------------+
-| ![](verto             |                       |                       |
-| pal_8a37cec54bf947b1a |                       |                       |
-| 2f8dfefe22f8db7/media |                       |                       |
-| /image26.png){width=" |                       |                       |
-| 2.4055555555555554in" |                       |                       |
-| height="0             |                       |                       |
-| .5638877952755905in"} |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Rulloda,      | > DATE PERFORMED:     |                       |
-| > Raymund P.          | > 12/09/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section: IDC2       | > DATE SUBMITTED:     |                       |
-|                       | > 12/09/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-
-SYSADM1 -- Managing Services in Linux\
-Requirement:\
-• A virtual machine running Linux
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image27.png){width="3.9694444444444446in"
-> height="1.4902766841644794in"}
-
-Complete this lab as follows:\
-1. Use the service --status-all command to list all active and inactive
-services.\
-List down active and inactive services in the table below. Provide five
-(5) services for each column.
-
-+-----------------------------------+-----------------------------------+
-| **Active**                        | **Inactive**                      |
-+===================================+===================================+
-| > alsa-utils                      | > anarcon                         |
-+-----------------------------------+-----------------------------------+
-| > apport                          | > apparmor                        |
-+-----------------------------------+-----------------------------------+
-| > cron                            | > bluetooth                       |
-+-----------------------------------+-----------------------------------+
-| > cups                            | > cryptdisk                       |
-+-----------------------------------+-----------------------------------+
-| > dbus                            | > Grub-common                     |
-+-----------------------------------+-----------------------------------+
-
-  ----------------------------------------------------------------------------------------------------------------------------------
-  SS:                                 ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image28.png){width="6.191666666666666in"
-                                      height="4.186110017497813in"}
-  ----------------------------------- ----------------------------------------------------------------------------------------------
-  2\. Start the Bluetooth service     
-  using the systemctl command. Ex.    
-  sudo systemctl start httpd          
-
-  ----------------------------------------------------------------------------------------------------------------------------------
-
-+-----------------------------------------------------------------------+
-| > ![](vertopal_8a37cec54b                                             |
-| f947b1a2f8dfefe22f8db7/media/image29.png){width="4.177777777777778in" |
-| > height="1.1083333333333334in"}                                      |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-**3.** Check the status of the Bluetooth service. What is its status?
-**The Status of the service is inactive(dead)**
-
-Page **2** of **4**
-
-> SS:
->
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image30.png){width="7.016666666666667in"
-> height="2.7986100174978126in"}
-
-4\. Check the status of the cups services. Since when was it running?
-
-> **The Cups services status is active since Thu 2024-09-12 01:24:49
-> UTC:P 9minutes ago SS:**
->
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image31.png){width="7.0125in"
-> height="2.1861100174978128in"}
-
-5\. Stop cups services.
-
-6\. Verify if the service was stopped.
-
-Page **3** of **4**
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image32.png){width="5.652777777777778in"
-> height="2.3513888888888888in"}
-
-7\. Restart the cups services\
-8. Verify if the service was restarted.
-
-> ![](vertopal_8a37cec54bf947b1a2f8dfefe22f8db7/media/image33.png){width="6.948611111111111in"
-> height="5.147222222222222in"}
-
-Page **4** of **4**
+
+
+M_LW3 Platform Services:
+
+
+![image](https://github.com/user-attachments/assets/2a48721f-0c5e-4be4-9ec4-2d0bad28d615)
+![image](https://github.com/user-attachments/assets/33908498-54cf-42d3-bf85-643acb0ccc80)
+![image](https://github.com/user-attachments/assets/15eda033-eed5-4432-b730-e1652c2527e0)
+![image](https://github.com/user-attachments/assets/67551c70-6ad4-4c22-af88-c406f3ac6a1b)
+![image](https://github.com/user-attachments/assets/1391082b-5d2d-4fec-99b2-c74faf37702f)
+![image](https://github.com/user-attachments/assets/d0a377cf-0056-4137-ad81-9eadf7edcc36)
+![image](https://github.com/user-attachments/assets/97afd9dd-e4c2-4335-b8eb-279f75869539)
+
+
+FINALS
+
+FLW1_Kerberos :
+
+
+![image](https://github.com/user-attachments/assets/d5a77267-3092-4f05-96ee-c81c40768124)
+![image](https://github.com/user-attachments/assets/6d5d32de-cd28-448d-9d9a-d7be0ac5b290)
+![image](https://github.com/user-attachments/assets/8cd26e36-ef55-45cf-8c00-7424be3d5e89)
+![image](https://github.com/user-attachments/assets/3a88902f-efc4-4d26-b62c-8f6c0129397f)
+![image](https://github.com/user-attachments/assets/86af4903-7edf-4bad-9da4-b86bd7b412aa)
+![image](https://github.com/user-attachments/assets/dbee7c33-bb4d-4dfe-b2df-973ad870441e)
+![image](https://github.com/user-attachments/assets/49de20f0-3cb5-404e-aac1-0ebcf1578622)
+![image](https://github.com/user-attachments/assets/b1119eca-1b67-4cb6-90ed-0487bedec0b6)
+
+
+FLW2_Git :
+
+![image](https://github.com/user-attachments/assets/3524b524-16e3-481b-9ef0-53e53ea67f89)
+![image](https://github.com/user-attachments/assets/b0b15c76-6c43-4969-baa4-4cca5d8b06d7)
+
+
+
+
+Capacity Management & Planning :
+
+
+![image](https://github.com/user-attachments/assets/33f4671a-9ead-4b63-b9bb-1431cfd450da)
+![image](https://github.com/user-attachments/assets/d84b0ff2-1835-45ad-8795-94339b0837df)
+![image](https://github.com/user-attachments/assets/e751d1ba-a4fe-401f-9c62-7e580c4ac300)
+
+
+
+
 
 **Course Reflection**
 
